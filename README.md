@@ -2,11 +2,7 @@
 
 Hello everyone\! 👋
 
-Let me introduce myself, I'm **Eki Zulfar Rachman**. On this occasion, I'd like to share the portfolio website project that I've developed.
-
-## 🚀 Live Demo
-
-**Website Link:** [https://www.eki.my.id/](https://www.eki.my.id/)
+Let me introduce myself, I'm **Herdian Pratama**. On this occasion, I'd like to share the portfolio website project that I've developed.
 
 ## 🛠️ Tech Stack
 
@@ -232,15 +228,6 @@ If you encounter issues while running the project:
 ## 📝 Usage & Credits
 
 We would appreciate it if you decide to use this project. Please include proper credit when using it. Thank you\! 🙏
-
-## 📞 Contact
-
-If you have any questions or need help with the setup, feel free to reach out\!
-
-**Eki Zulfar Rachman**
-
-  - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
-  - GitHub: [EkiZR](https://github.com/EkiZR)
 
 -----
 
