@@ -1,9 +1,3 @@
-# Portfolio V5
-
-Hello everyone\! 👋
-
-Let me introduce myself, I'm **Herdian Pratama**. On this occasion, I'd like to share the portfolio website project that I've developed.
-
 ## 🛠️ Tech Stack
 
 This project is built using modern web technologies:
@@ -224,15 +218,3 @@ If you encounter issues while running the project:
   - Check that all dependencies are installed without errors.
   - Make sure your Supabase configuration in the `.env` file is correct and the server has been restarted.
   - Clear your browser cache and try again.
-
-## 📝 Usage & Credits
-
-We would appreciate it if you decide to use this project. Please include proper credit when using it. Thank you\! 🙏
-
------
-
-Thanks to
-- https://lottiefiles.com/free-animation/coding-NWhbxMOVgP
-- Claude
-
-⭐ If this project helped you, please consider giving it a star on GitHub\!
